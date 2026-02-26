@@ -1,0 +1,7 @@
+numpy==2.3.*
+pandas==2.3.*
+plotly==6.5.0
+scikit-learn==1.7.2
+statsmodels==0.14.5
+tqdm==4.67.*
+matplotlib==3.10.6
